@@ -36,3 +36,7 @@ Get help - Here's where you can find what everything does, and how to get starte
 ![](image/adduserbutton.png)
 
 Add a user - Here's where you can set different profiles for the app, where you can have seperate downtimes for each user, or person who uses the computer (this is optional)
+
+![](image/settingsbutton.png)
+
+Settings - Here i am planning to add accessibility functions such as larger text, brighter colours and a colour scheme changer.
