@@ -19,3 +19,14 @@ Down time - the down time button will be where you select and edit your down tim
 
 Add app - Here's where you add an app to be blocked when you are in "down time" - you only need to use this function for specific programs that aren't blocked by the app's default library
 
+![](image/helpcreatorbutton.png)
+
+Help the creator - Here is where i will set up a donation page if anyone is kind enough to donate to my app! It would be greatly appreciated
+
+![](image/gethelpbutton.png)
+
+Get help - Here's where you can find what everything does, and how to get started easily with downtime
+
+![](image/adduserbutton.png)
+
+Add a user - Here's where you can set different profiles for the app, where you can have seperate downtimes for each user, or person who uses the computer (this is optional)
