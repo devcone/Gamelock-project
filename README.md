@@ -3,3 +3,4 @@ This is a HUGE project. This will lock games when people want to revise for work
 
 ## The UI
 The ui is smart and simple. Below you will find each button's purpose within the app.
+![](image/ui.png)
