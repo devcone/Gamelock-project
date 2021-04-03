@@ -1,0 +1,270 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GAMELOCK_project.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="hasopenedonce" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="mondaystarttime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="mondayendtime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="mondaystarttime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="mondayendtime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="mondaystarttime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="mondayendtime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="tuesdaystarttime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="tuesdayendtime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="tuesdaystarttime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="tuesdayendtime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="tuesdaystarttime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="tuesdayendtime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="wednesdaystarttime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="wednesdayendtime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="wednesdaystarttime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="wednesdayendtime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="wednesdaystarttime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="wednesdayendtime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="thursdaystarttime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="thursdayendtime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="thursdaystarttime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="thursdayendtime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="thursdaystarttime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="thursdayendtime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="edittimeswindow" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="fridaystarttime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="fridayendtime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="fridaystarttime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="fridayendtime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="fridaystarttime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="fridayendtime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="saturdaystarttime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="saturdayendtime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="saturdaystarttime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="saturdayendtime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="saturdaystarttime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="saturdayendtime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="sundaystarttime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="sundayendtime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="sundaystarttime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="sundayendtime1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="sundaystarttime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="sundayendtime2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="mondaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="tuesdaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="wednesdaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="thursdaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="fridaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="mondaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="tuesdaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="wednesdaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="thursdaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="fridaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="saturdaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="sundaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="sundaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="saturdaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="mondaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="tuesdaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="wednesdaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="thursdaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="fridaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="saturdaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="sundaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="mondayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="tuesdayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="wednesdayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="thursdayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="fridayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="saturdayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="sundayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="everydayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="everydaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="everydaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="everydaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="weekdayselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="weekdaydelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="weekdaydelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="weekdaydelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="weekendselected" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="weekenddelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="weekenddelete1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="weekenddelete2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">closed</Value>
+    </Setting>
+    <Setting Name="darkscheme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="lightscheme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="defaultscheme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yes</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
