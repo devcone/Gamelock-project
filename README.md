@@ -1,9 +1,15 @@
 # Gamelock-project
-This is a HUGE project. This will lock games when people want to revise for work, school or want to distance themselves from games, i am the sole developer of this app and it will take me around a year to completely finish. I will also be using this for myself
+This is a HUGE project. This will lock games when people want to revise for work, school or want to distance themselves from games. You will be able to set times for revision or work so the app blocks games or any programs that can distract you.
+
+I am the sole developer of this app and it will take me around a year to completely finish. I will also be using this for myself.
 
 ## The UI
 The ui is smart and simple. Designed to be easily understandable and easy to use with everything you need to get started on the front page. Below you will find what each button does
 ![](image/ui.png)
+
+The app greets you based on the time of day, and also addresses you by the name you set within the app upon first startup. The colours are also subject to change but currently i am happy with the ui's design
+
+In the future i am planning to have a "kids ui" where it is a lot more colourful. I am also planning on adding a currency system to reward you for your revision time, you will be able to spend these coins within an in-app shop
 
 ## The buttons
 
