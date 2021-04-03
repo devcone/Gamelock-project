@@ -15,3 +15,7 @@ Schedule - The schedule window is not finished yet. But it will be able to show 
 
 Down time - the down time button will be where you select and edit your down time for each day of the week, or set it for the whole week, or just a weekend. Currently it is fully functional and the down times can be set and removed
 
+![](image/addappbutton.png)
+
+Add app - Here's where you add an app to be blocked when you are in "down time" - you only need to use this function for specific programs that aren't blocked by the app's default library
+
