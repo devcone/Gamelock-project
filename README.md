@@ -1,4 +1,7 @@
 # Gamelock-project
+
+## THIS PROJECT IS NO LONGER BEING WORKED ON / DEVELOPED, IT IS SIMPLY AN ARCHIVED VERSION OF AN OLD PROJECT WHICH IS PRETTY BAD
+
 This is a HUGE project. This will lock games when people want to revise for work, school or want to distance themselves from games. You will be able to set times for revision or work so the app blocks games or any programs that can distract you. Coded in windows forms in c#
 
 I am the sole developer of this app and it will take me around a year to completely finish. I will also be using this for myself.
